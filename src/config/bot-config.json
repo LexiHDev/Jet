@@ -1,7 +1,7 @@
 {
-  "name": "Bot name",
+  "name": "Jade",
   "status": "Bot status",
-  "statusType": "Bot status type, either 'PLAYING', 'LISTENING' or 'WATCHING'",
+  "statusType": "WATCHING Team Onyx. 👀",
   "token": "",
   "intents": [
     "GUILDS",

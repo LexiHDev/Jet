@@ -28,6 +28,7 @@
     "bufferutil": "^4.0.3",
     "discord.js-light": "^3.5.4",
     "erlpack": "github:discord/erlpack",
+    "oversmash": "^1.6.1",
     "require-all": "^3.0.0",
     "utf-8-validate": "^5.0.4",
     "zlib-sync": "^0.1.7"
