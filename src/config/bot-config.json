@@ -2,7 +2,7 @@
   "name": "Jade",
   "status": "Bot status",
   "statusType": "WATCHING Team Onyx. 👀",
-  "token": "test",
+  "token": "testt",
   "intents": [
     "GUILDS",
     "GUILD_MESSAGES"
