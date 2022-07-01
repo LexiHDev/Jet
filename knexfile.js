@@ -13,7 +13,6 @@ const sharedConfig = {
         },
     },
 };
-
 module.exports = {
     development: {
         ...sharedConfig,

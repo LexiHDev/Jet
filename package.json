@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-    "start": "node index.js"
+    "start": "node index.js",
+    "migrate": "knex migrate:latest",
+    "rollback": "knex migrate:rollback"
   },
   "repository": {
     "type": "git",
@@ -37,6 +39,9 @@
     "zlib-sync": "^0.1.7"
   },
   "devDependencies": {
+    "@types/knex": "^0.16.1",
+    "@types/node": "^18.0.0",
+    "@types/oversmash": "^1.6.2",
     "eslint": "^7.21.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
